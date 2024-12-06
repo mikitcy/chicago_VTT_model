@@ -1,0 +1,49 @@
+{
+  "name": "EV input base: 40kWh BEV, large: 60kWh BEV",
+  "fuel_consumption":
+  {
+      "base": 0.3,
+      "large": 0.31
+  },
+  "deadheading":
+  {
+      "base": 0.49,
+      "large": 0.47
+  },
+  "wait_minutes":  0,
+  "winter_penalty": 0.3,
+  "summer_penalty": 0.3,
+  "lifetime_mile": 173151,
+  "ghg_operation_emissions": 0,
+  "So2_operation_emissions": 0,
+  "Nox_operation_emissions": 0,
+  "PM_operation_emissions": 0.000003,
+  "VOC_operation_emissions": 0,
+  "So2_gallon_emissions": 0.0,
+  "Nox_gallon_emissions": 0.0,
+  "PM_gallon_emissions": 0.0,
+  "VOC_gallon_emissions": 0.0,
+  "lifetime_GHG": {
+    "base": 381,
+    "large": 429
+  },
+  "lifetime_So2": {
+    "base": 647,
+    "large": 731
+  },
+  "lifetime_Nox": {
+    "base": 29,
+    "large": 33
+  },
+  "lifetime_PM": {
+    "base": 62,
+    "large": 69
+  },
+  "lifetime_VOC": {
+    "base": 178,
+    "large": 179
+  },
+  "Collision_cost": 0.06,
+  "Congestion_cost": 0.09,
+  "Noise_cost": 0.002
+}

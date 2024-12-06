@@ -1,0 +1,20 @@
+{
+  "name": "Cost factors",
+  "Carbon_cost":
+  {
+      "base": 0.058,
+      "high": 0.200,
+      "low": 0.015
+  },
+  "PM_tailpipe_cost": 772,
+  "So2_tailpipe_cost": 183,
+  "Nox_tailpipe_cost": 34,
+  "VOC_tailpipe_cost": 54,
+  "Time_value": 0.33,
+  "Time_walk_value": 0.27,
+  "Static_life_value": 12.5,
+  "Walk_collision_cost": 0.120,
+  "Walk_congestion_cost": 0.0028,
+  "Walk_noise_cost": 0,
+  "Walk_benefit_per_mile": 0
+}

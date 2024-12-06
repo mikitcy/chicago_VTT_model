@@ -1,0 +1,12 @@
+{
+  "name": "Gasoline emissions input",
+  "ghg_factor_fuel": 2.29727162,
+  "So2_factor_fuel":  0.00095027,
+  "Nox_factor_fuel": 0.00330458,
+  "PM_factor_fuel": 0.00024266,
+  "VOC_factor_fuel": 0.00367073,
+  "PM_upstream_cost": 164,
+  "So2_upstream_cost": 78,
+  "Nox_upstream_cost": 19,
+  "VOC_upstream_cost": 9
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Electricity PJM input Marginal Emissions Factor for TNCs, electric bus",
+  "ghg_factor_fuel": 0.62253,
+  "So2_factor_fuel":  0.00053000,
+  "Nox_factor_fuel": 0.00034000,
+  "PM_factor_fuel": 0.00007000,
+  "VOC_factor_fuel": 0.0,
+  "PM_upstream_cost": 169.6083669,
+  "So2_upstream_cost": 60.7288,
+  "Nox_upstream_cost": 14.26734488,
+  "VOC_upstream_cost": 0
+}

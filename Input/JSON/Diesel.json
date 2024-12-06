@@ -1,0 +1,12 @@
+{
+  "name": "Diesel WTP emissions input",
+  "ghg_factor_fuel": 2.28424097815745,
+  "So2_factor_fuel": 0.000716425026915452,
+  "Nox_factor_fuel": 0.00262002007207109,
+  "PM_factor_fuel": 0.000157146139807325,
+  "VOC_factor_fuel": 0.00103051594134539,
+  "PM_upstream_cost": 646,
+  "So2_upstream_cost": 141,
+  "Nox_upstream_cost": 27,
+  "VOC_upstream_cost": 38
+}

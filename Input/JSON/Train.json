@@ -1,0 +1,60 @@
+{
+  "name": "Train",
+  "fuel_consumption": {
+    "diesel": 0.5029,
+    "electric": 10.14
+  },
+  "electric_ratio": 0.45,
+  "occupancy": {
+    "diesel": 77,
+    "electric": 77
+  },
+  "winter_penalty": {
+    "diesel": 0.25,
+    "electric": 0.3
+  },
+  "summer_penalty": {
+    "diesel": 0.1,
+    "electric": 0.3
+  },
+  "lifetime_year": {
+    "diesel": 30,
+    "electric": 30
+  },
+  "vmt_per_year": {
+    "diesel":   258131,
+    "electric":  44968
+  },
+  "ghg_operation_emissions": {
+    "diesel": 10.21,
+    "electric": 0
+  },
+  "So2_operation_emissions": {
+    "diesel": 0.0000745184,
+    "electric": 0
+  },
+  "Nox_operation_emissions": {
+    "diesel": 0.057220722,
+    "electric": 0
+  },
+  "PM_operation_emissions": {
+    "diesel": 0.000914551,
+    "electric": 0
+  },
+  "VOC_operation_emissions": {
+    "diesel": 0.003954985,
+    "electric": 0
+  },
+  "PM_lifetime_cost": 229.92,
+  "So2_lifetime_cost": 184.31,
+  "Nox_lifetime_cost": 14.02,
+  "VOC_lifetime_cost": 0,
+  "lifetime_GHG": 1800000,
+  "lifetime_So2": 6900,
+  "lifetime_Nox": 3800,
+  "lifetime_PM": 800,
+  "lifetime_VOC": 950,
+  "Collision_cost": 0,
+  "Congestion_cost": 0,
+  "Noise_cost": 0.0028
+}
